@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://mazdahochiminh.vn/san-pham' target=''><img src='http://mazdahochiminh.vn/wp-content/uploads/2015/07/20071671.250.2501-240x140.jpg' width='500px'/>Mazda Chính hãng tại Tp HCM</a>. 0936957711. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://mazdahochiminh.vn/wp-content/uploads/2015/07/doi-ngu-nhan-vien-mazda-phu-my-hung-9245.jpg' width='500px'/>Mazda Chính hãng tại Tp HCM</a>. 0936957711. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
